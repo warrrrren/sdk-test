@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "942411073095",
+    "firebase_url": "https://atma-nirbhar.firebaseio.com",
+    "project_id": "atma-nirbhar",
+    "storage_bucket": "atma-nirbhar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942411073095:android:624941204fb76ee3959362",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942411073095-k9evdl0sta889l9tqlmna8b8vj88plvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YyVg6vCVYRTaOwjPNbrMZ8Pj1_g5clQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942411073095-k9evdl0sta889l9tqlmna8b8vj88plvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942411073095:android:e63df4c6056b5a0f959362",
+        "android_client_info": {
+          "package_name": "com.warren.atma_nirbhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942411073095-5qg4aurnh3afs0ovoeb4fi2rafc04js8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warren.atma_nirbhar",
+            "certificate_hash": "b7ce2d0940156da65ad7e21c3ae0b5978caa0f58"
+          }
+        },
+        {
+          "client_id": "942411073095-k9evdl0sta889l9tqlmna8b8vj88plvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YyVg6vCVYRTaOwjPNbrMZ8Pj1_g5clQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942411073095-k9evdl0sta889l9tqlmna8b8vj88plvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
